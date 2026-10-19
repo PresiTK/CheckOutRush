@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09ee594508b823f45a7ad65d2ed73602, type: 3}
+  m_Name: Sunscreen
+  m_EditorClassIdentifier: Assembly-CSharp::ProductData
+  Name: Protector solar
+  IsInRecipe: 0
+  Prefab: {fileID: 6387135445450277558, guid: d637250003735fe49b63cf3fbe0b8d4d, type: 3}

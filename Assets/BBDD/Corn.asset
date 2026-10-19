@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09ee594508b823f45a7ad65d2ed73602, type: 3}
+  m_Name: Corn
+  m_EditorClassIdentifier: Assembly-CSharp::ProductData
+  Name: "Mazorca de ma\xEDz"
+  IsInRecipe: 0
+  Prefab: {fileID: 6541287856696826395, guid: d32437f4741b8f547b5ad49ea83fe38a, type: 3}
